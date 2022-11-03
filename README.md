@@ -66,6 +66,8 @@ All of the following files are programs written in C:
 |`split.c `|replacement of variables and fixing Operators |
 |`main.h `| Main shell executes files Headers |
 
-AUTHORS 
-Chibuzo Ashiegbu
-Kingsley Emeka Umunna
+
+| AUTHORS | Description |
+| -------- | ----------- |
+| Chibuzo Ashiegbu| An ALX student Pair Project|
+|Kingsley Emeka Umunna|An ALX student Pair Project|
